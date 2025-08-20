@@ -1,0 +1,35 @@
+# Core data science libraries
+pandas>=2.0.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+jupyter>=1.0.0
+
+# Machine learning and NLP
+scikit-learn>=1.0.0
+bertopic>=0.15.0
+sentence-transformers>=2.2.0
+umap-learn>=0.5.0
+hdbscan>=0.8.0
+nltk>=3.7.0
+langdetect>=1.0.9
+clean-text>=0.6.0
+emoji>=2.0.0
+
+# Web scraping and automation
+selenium>=4.0.0
+webdriver-manager>=3.8.0
+beautifulsoup4>=4.11.0
+
+# File handling and utilities
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+python-dotenv>=0.19.0
+pickle-mixin>=1.0.2
+
+# Data visualization
+wordcloud>=1.9.0
+
+# Statistical analysis
+scipy>=1.8.0
